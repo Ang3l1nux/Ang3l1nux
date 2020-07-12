@@ -30,7 +30,7 @@ My name is Jose Angelo Moreira Lima, known as Angelo Moreira, Cisco CCNA certifi
 
 - :office_worker: I work as SRE in **C6 Bank**
 - :blue_heart: AWS, Terraform, Ansible !
-- :books: Currently studying Docker and Kubernetes:heart:
+- :books: Currently studying Docker and Kubernetes
 
 ---
 ⭐️ From [Angelo Moreira](https://github.com/Ang3l1nux)
