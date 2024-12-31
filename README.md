@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 My name is Jose Angelo Moreira Lima, known as Angelo Moreira, Cisco CCNA certified and addicted to technology.
 
 - :office_worker: I work as SRE in **C6 Bank**
-- :blue_heart: AWS, Terraform, Ansible !
+- :blue_heart: Kubernetes, Docker, AWS, Terraform, Ansible, CI/CD !
 - :books: Currently studying Docker and Kubernetes
 
 ---
